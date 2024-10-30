@@ -1,0 +1,37 @@
+/* This stylesheet is used to style the admin option form of the plugin. */
+.form-table th { padding: 20px 10px; }
+#wpbody-content .metabox-holder { margin-top:0px;padding-top: 5px; }
+.chosen-choices input{
+    min-height: 30px;
+}
+.cbtwittercard-repeatfields li{
+    list-style: none;
+    margin-left: 0;
+}
+#poststuff h2.nav-tab-wrapper ,#poststuff h2.cbtwittercard-meta-nav-tab-wrapper {
+    margin-bottom: -9px;
+}
+.cbtwittercard-meta-group input , .cbtwittercard-meta-group textarea ,.cbtwittercard-meta-group select , .cbtwittercard-meta-group a{
+   /* margin-top: 12px!important;
+    margin-bottom: 12px;
+*/
+}
+.cbtwittercard_label{
+
+}
+.cbtwittercard-wpsa-review img{
+    /*
+    width: 20px!important;
+    height: 20px!important;
+    */
+    padding: 0px 5px;
+}
+.cbtwittercard_tooltip{
+    padding-left :5px;
+}
+.cbtwittercard-meta-nav-tab-active , .cbtwittercard-nav-tab-active{
+    background-color:#fff!important;
+}
+.cbtwittercard-meta-nav-tab{
+    float: none !important;
+}
